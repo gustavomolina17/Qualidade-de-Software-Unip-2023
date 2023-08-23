@@ -11,3 +11,5 @@
     - Apresentação da Disciplina
 - [x]  Aula 02 - 16/08/23
     - Introdução a Qualidade de Software
+- [x]  Aula 03 - 23/08/23
+    - Six Sigma / HouseKeeping
