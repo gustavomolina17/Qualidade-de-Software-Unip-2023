@@ -13,3 +13,5 @@
     - Introdução a Qualidade de Software
 - [x]  Aula 03 - 23/08/23
     - Six Sigma / HouseKeeping
+- [x]  Aula 04 - 30/08/23
+    - Lean
