@@ -15,3 +15,5 @@
     - Six Sigma / HouseKeeping
 - [x]  Aula 04 - 30/08/23
     - Lean
+- [x]  Aula 05 - 06/09/23
+    - Confiabilidade do Software
