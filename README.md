@@ -17,5 +17,11 @@
     - Lean
 - [x]  Aula 05 - 06/09/23
     - Confiabilidade do Software
-- [x]  Aula 06 - 12/09/23
+- [x]  Aula 06 - 13/09/23
     - Sistemas Críticos
+- [x]  Aula 07 - 20/09/23
+    - Semana de Provas NP1
+- [x]  Aula 08 - 27/09/23
+    - Correção da Prova / Vista
+    - Trabalho para NP2
+  
