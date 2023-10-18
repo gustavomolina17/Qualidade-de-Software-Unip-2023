@@ -24,4 +24,7 @@
 - [x]  Aula 08 - 27/09/23
     - Correção da Prova / Vista
     - Trabalho para NP2
+- [x]  Aula 09 - 18/10/23
+    - Sistemas Embarcados
+    
   
