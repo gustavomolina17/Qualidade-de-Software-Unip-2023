@@ -26,5 +26,7 @@
     - Trabalho para NP2
 - [x]  Aula 09 - 18/10/23
     - Sistemas Embarcados
+- [x]  Aula 10 - 25/10/23
+    - Projetos de Sistemas de Tempo Real
     
   
